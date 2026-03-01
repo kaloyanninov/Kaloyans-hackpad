@@ -47,17 +47,13 @@
 Perfect for:
 
 * Coding shortcuts
-* CAD 
-* Learning keyboard firmware
+* Learning how to write keyboard firmware
 
 ---
 
 
 ## Credits
 
-Designed and built by *()*
-Inspired by open‑source mechanical keyboard and hackpad communities (https://blueprint.hackclub.com/home).
---- 
-# Kaloyans-hackpad
-a mini keyboard for shortcuts
+* Designed and built by *(kaloyanninov)*
+* Inspired by open‑source mechanical keyboard and hackpad communities (https://blueprint.hackclub.com/home).
 
