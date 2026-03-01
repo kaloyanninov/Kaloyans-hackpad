@@ -7,8 +7,6 @@
 
 ### Parts I will need from the care package
 
-*(Fill in exact quantities as needed)*
-
 * MX‑style mechanical switches (**8x**) 
 * Blank DSA keycaps – **White** (**8x**)
 * Rotary encoder EC11E 
@@ -22,11 +20,12 @@
 ### PCB
 
 * The PCB i made has all of the parts that I have listed above. I tried to make the PCB traces organized.
-* 
+* <img width="500" height="300" alt="Screenshot 2026-03-02 001649" src="https://github.com/user-attachments/assets/edf8d089-faf9-4f99-95e6-d69ccb5d6a7f" />
 * This is the schematic.
-* 
+* <img width="500" height="300" alt="Screenshot 2026-03-02 001721" src="https://github.com/user-attachments/assets/dff3e4bf-00d7-4ad1-aece-984938b49ac3" />
 * This is the full assembly.
-* 
+* <img width="500" height="300" alt="Screenshot 2026-03-02 000825" src="https://github.com/user-attachments/assets/39e6a5b2-3ba2-46b5-bdc8-d0a4f56d9f67" />
+
 
 ---
 
@@ -50,7 +49,6 @@ Perfect for:
 * Learning how to write keyboard firmware
 
 ---
-
 
 ## Credits
 
