@@ -1,2 +1,2 @@
 # Kaloyans-hackpad
-a mini keyboar for shortcuts
+a mini keyboard for shortcuts
