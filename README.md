@@ -1,3 +1,4 @@
+
 # Kaloyans Hackpad
 
 ---
@@ -56,3 +57,7 @@ Perfect for:
 
 Designed and built by *()*
 Inspired by open‑source mechanical keyboard and hackpad communities (https://blueprint.hackclub.com/home).
+--- 
+# Kaloyans-hackpad
+a mini keyboard for shortcuts
+
